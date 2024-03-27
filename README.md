@@ -10,7 +10,7 @@ Instructions & Menu Previews are down below
 # Current Changelog:
     v3.0.62.29
     Updated Offsets
-    Big Update soon
+
 
 # Installation
 **1.Install dependencies**
