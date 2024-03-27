@@ -3,9 +3,10 @@
 
 Maintained By **Magneto**
 
-All credits to original owners
+All credits to original owner - Gerosity
+This is a old version of zap-client... I love this version so I'm just keeping it up to date.
 
-Instructions & Menu Previews are down below
+Instructions are down below
 
 # Current Changelog:
     v3.0.62.29
@@ -34,7 +35,7 @@ Instructions & Menu Previews are down below
 
 **3. Clone repo**
 
-    git clone
+    git clone https://github.com/Magnetofps/Zap-Client
     cd zap-client
 
 **4. Build and Run**
